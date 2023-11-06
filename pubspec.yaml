@@ -13,8 +13,6 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  reactive_variables:
-    git: git@github.com:dronn1k-org/reactive_variables.git
   freezed_annotation: ^2.4.1
   json_annotation: ^4.8.1
 
@@ -22,7 +20,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   build_runner: ^2.4.6
-  freezed: ^2.4.1
+  freezed: ^2.4.5
   json_serializable: ^6.7.1
 
 flutter:
